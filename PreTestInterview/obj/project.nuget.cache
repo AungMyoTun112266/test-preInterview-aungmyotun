@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUTyoEnLeaew/3WoK21wjPIDHvuZMiKF1NE15yp7G8tmG3Wh9G3i0tAKMSjqUOzQeMzZj7GZNkWBs4Nq5xcweg==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\Interviews\\Assignment\\PreTestInterview\\PreTestInterview\\PreTestInterview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

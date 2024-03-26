@@ -1,0 +1,14 @@
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\bin\Debug\net6.0\PreTestInterview.exe
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\bin\Debug\net6.0\PreTestInterview.deps.json
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\bin\Debug\net6.0\PreTestInterview.runtimeconfig.json
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\bin\Debug\net6.0\PreTestInterview.dll
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\bin\Debug\net6.0\PreTestInterview.pdb
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.AssemblyInfoInputs.cache
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.AssemblyInfo.cs
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.csproj.CoreCompileInputs.cache
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.dll
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\refint\PreTestInterview.dll
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.pdb
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\PreTestInterview.genruntimeconfig.cache
+D:\Learn\Interviews\Assignment\PreTestInterview\PreTestInterview\obj\Debug\net6.0\ref\PreTestInterview.dll
